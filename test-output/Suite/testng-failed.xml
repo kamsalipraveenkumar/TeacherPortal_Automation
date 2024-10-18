@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="PageObjectModelClass.PomClassess">
+        <methods>
+          <include name="AfterClassCofig"/>
+          <include name="AfterMethoConfig"/>
+          <include name="BeforeMethodCOfig"/>
+          <include name="AfterSuiteCofig"/>
+          <include name="BeforeClassConfig"/>
+          <include name="btConfig"/>
+          <include name="atConfig"/>
+          <include name="BfConfig"/>
+          <include name="launchapplication"/>
+        </methods>
+      </class> <!-- PageObjectModelClass.PomClassess -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-08T12:10:24 IST" name="Suite" finished-at="2024-10-08T12:10:31 IST" duration-ms="6579">
+    <groups>
+    </groups>
+    <test started-at="2024-10-08T12:10:24 IST" name="Test" finished-at="2024-10-08T12:10:31 IST" duration-ms="6579">
+      <class name="PageObjectModelClass.PomClassess">
+        <test-method is-config="true" signature="BfConfig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:24 IST" name="BfConfig" finished-at="2024-10-08T12:10:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfConfig -->
+        <test-method is-config="true" signature="btConfig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:24 IST" name="btConfig" finished-at="2024-10-08T12:10:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btConfig -->
+        <test-method is-config="true" signature="BeforeClassConfig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:24 IST" name="BeforeClassConfig" finished-at="2024-10-08T12:10:28 IST" duration-ms="3799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClassConfig -->
+        <test-method is-config="true" signature="BeforeMethodCOfig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:28 IST" name="BeforeMethodCOfig" finished-at="2024-10-08T12:10:28 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethodCOfig -->
+        <test-method signature="launchapplication()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:28 IST" name="launchapplication" finished-at="2024-10-08T12:10:30 IST" duration-ms="1874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method is-config="true" signature="AfterMethoConfig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:30 IST" name="AfterMethoConfig" finished-at="2024-10-08T12:10:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethoConfig -->
+        <test-method is-config="true" signature="AfterClassCofig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:30 IST" name="AfterClassCofig" finished-at="2024-10-08T12:10:31 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClassCofig -->
+        <test-method is-config="true" signature="atConfig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:31 IST" name="atConfig" finished-at="2024-10-08T12:10:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atConfig -->
+        <test-method is-config="true" signature="AfterSuiteCofig()[pri:0, instance:PageObjectModelClass.PomClassess@26d9b808]" started-at="2024-10-08T12:10:31 IST" name="AfterSuiteCofig" finished-at="2024-10-08T12:10:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuiteCofig -->
+      </class> <!-- PageObjectModelClass.PomClassess -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
